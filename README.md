@@ -22,6 +22,10 @@ After navigating to https://scrapeandchat.herokuapp.com/ in your browser --scrol
 - view
 - comment
 
+## Here's How It Might Look
+
+![scrapeNchat](https://i.imgur.com/gIHBHCv.png)
+
 ## Tech Used
 
 ---
